@@ -94,6 +94,8 @@ body{
 
     cursor: pointer;
 
+    /* border:2px solid red; */
+
 
 }
 .city-imgs{
@@ -101,6 +103,10 @@ body{
     flex-flow:row wrap;
     justify-content: space-around;
     align-items: center;
+
+    /* border: 2px solid red; */
+
+    padding-top:8px;
 }
 .city-names{
     font-size: 14px;
@@ -119,6 +125,8 @@ body{
 
     gap:10px;
 
+    /* border:2px solid red; */
+   
 
 }
 .other-title{
@@ -140,6 +148,10 @@ body{
    
     
     height:150px;
+
+    /* border:2px solid blue; */
+
+    padding-left:13px;
 
     
     
