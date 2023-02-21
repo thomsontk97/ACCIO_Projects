@@ -106,7 +106,14 @@ body{
 
     /* border: 2px solid red; */
 
-    padding-top:8px;
+    /* padding-top:8px; */
+    /* padding:8px 4px; */
+    
+
+}
+
+.img-name{
+    padding:8px 10px;
 }
 .city-names{
     font-size: 14px;
@@ -148,10 +155,11 @@ body{
    
     
     height:150px;
-
+    width:100%;
     /* border:2px solid blue; */
 
-    padding-left:13px;
+    /* padding-left:13px; */
+    margin-left:15px;
 
     
     
